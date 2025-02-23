@@ -11,16 +11,6 @@ I’m passionate about turning data into insights, building scalable pipelines, 
 
 ### Tech Stack
 
-  <img alt="Python" title="Python" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img alt="SQL" title="SQL" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  <img alt="Airflow" title="Airflow" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg"/>
-  <img alt="dbt" title="dbt" width="30px" style="padding-left: 10px;" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png"/>
-  <img alt="Azure" title="Azure" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"/>
-  <img alt="Flask" title="Flask" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
-  <img alt="Git" title="Git" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
-  <img alt="Docker" title="Docker" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
-  <img alt="VS Code" title="VS Code" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-
 💻 **Programming & Data**
 
 - Python | SQL (MySQL)
