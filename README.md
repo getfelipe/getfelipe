@@ -20,7 +20,6 @@ I’m passionate about turning data into insights, building scalable pipelines, 
   <img alt="Git" title="Git" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img alt="Docker" title="Docker" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
   <img alt="VS Code" title="VS Code" width="30px" style="padding-left: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
-</p>
 
 💻 **Programming & Data**
 
