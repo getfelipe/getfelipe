@@ -14,7 +14,10 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 💻 **Programming & Data**
 
 <div style="display: inline-block">
- <a src="https://img.shields.io/badge/Python-white?logo=python" </a>
+  <a href="https://img.shields.io/badge/Python-white?logo=python">
+    <img src="https://img.shields.io/badge/Python-white?logo=python" alt="Python Badge"/>
+  </a>
+</div>
 
 
 
