@@ -17,6 +17,9 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   <a href="https://img.shields.io/badge/Python-white?logo=python">
     <img src="https://img.shields.io/badge/Python-white?logo=python" alt="Python Badge"/>
   </a>
+  <a href= "https://img.shields.io/badge/MySQL-white?logo=mysql">
+    <img stc="" alt="MySQL Badge"/>  
+  </a>
 </div>
 
 
