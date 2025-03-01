@@ -14,30 +14,6 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 💻 **Programming & Data**
 
 <div style="display: inline-block">
-  <a href="https://img.shields.io/badge/Python-white?logo=python">
-    <img src="https://img.shields.io/badge/Python-white?logo=python" alt="Python Badge"/>
-  </a>
-  <a href= "https://img.shields.io/badge/MySQL-white?logo=mysql">
-    <img src="https://img.shields.io/badge/MySQL-white?logo=mysql" alt="MySQL Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/tensorflow-white?logo=tensorflow">
-    <img src="https://img.shields.io/badge/tensorflow-white?logo=tensorflow" alt="MySQL Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/scikitlearn-white?logo=scikitlearn">
-    <img src="https://img.shields.io/badge/scikitlearn-white?logo=scikitlearn" alt="MySQL Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/pandas-blue?logo=pandas">
-    <img src="https://img.shields.io/badge/pandas-blue?logo=pandas" alt="MySQL Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/pandas-blue?logo=pandas">
-    <img src="https://img.shields.io/badge/pandas-blue?logo=pandas" alt="MySQL Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/pandas-blue?logo=pandas">
-    <img src="https://img.shields.io/badge/pandas-blue?logo=pandas" alt="MySQL Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/airflow-blue?style=for-the-badge&logo=apacheairflow">
-    <img src="https://img.shields.io/badge/airflow-blue?style=for-the-badge&logo=apacheairflow" alt="MySQL Badge"/>  
-  </a>
   <a href= "https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt">
     <img src="https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt" alt="MySQL Badge"/>  
   </a>
