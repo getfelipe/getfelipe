@@ -1,12 +1,6 @@
 # 🧑🏼‍💻 Hi There! I'm Felipe Machado
 
 **`Machine Learning | Data Engineer`**
-<div style="display: inline-block">
-  <a href= "https://img.shields.io/badge/Machine%20Learning%20%7C%20Data%20Engineer-black?style=for-the-badge&logo=linkedin">
-    <img src="https://img.shields.io/badge/Machine%20Learning%20%7C%20Data%20Engineer-black?style=for-the-badge&logo=linkedin" alt="Machine Badge"/>  
-  </a>
-</div>
-
 
 🎓 **Information Systems Student** | **Data Engineering & Machine Learning Enthusiast**
 
