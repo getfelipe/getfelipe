@@ -20,9 +20,20 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   <a href= "https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks">
     <img src="https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks" alt="MySQL Badge"/>  
   </a>
-    <a href= "https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazonwebservices">
+  <a href= "https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazonwebservices">
     <img src="https://img.shields.io/badge/aws-orange?style=for-the-badge&logo=amazonwebservices" alt="MySQL Badge"/>  
   </a>
+  <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="MySQL Badge"/>  
+  </a>
+  <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="MySQL Badge"/>  
+  </a>
+  <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
+    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="MySQL Badge"/>  
+  </a>
+  
+
 </div>
 
 
