@@ -26,11 +26,11 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="MySQL Badge"/>  
   </a>
-  <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
-    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="MySQL Badge"/>  
+  <a href= "https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow">
+    <img src="https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow" alt="MySQL Badge"/>  
   </a>
-  <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
-    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="MySQL Badge"/>  
+  <a href= "https://img.shields.io/badge/airflow-blue?style=for-the-badge&logo=apacheairflow">
+    <img src="https://img.shields.io/badge/airflow-blue?style=for-the-badge&logo=apacheairflow" alt="MySQL Badge"/>  
   </a>
   
 
