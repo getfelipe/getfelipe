@@ -37,11 +37,11 @@ My work focuses on turning data into insights, building scalable pipelines, and 
     <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git" alt="git Badge"/>  
   </a> 
 
-    <a href= "https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker">
+  <a href= "https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker">
     <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker" alt="docker Badge"/>  
   </a> 
 
-    <a href= "https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter">
+  <a href= "https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter">
     <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" alt="jupyter Badge"/>  
   </a> 
   
