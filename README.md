@@ -26,6 +26,12 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   <a href= "https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks">
     <img src="https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks" alt="MySQL Badge"/>  
   </a> 
+    <a href= "https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql">
+    <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" alt="MySQL Badge"/>  
+  </a> 
+
+ 
+
 
 </div>
 
