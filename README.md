@@ -64,5 +64,15 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 
 ## 📬 Get in Touch
 
+<div style="display: inline-block">
+  <a href= "https://github.com/getfelipe">
+    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="github Badge"/>  
+  </a>
+  <a href= "https://www.linkedin.com/in/getfelipe/">
+    <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" alt="MySQL Badge"/>  
+  </a> 
+</div>
+
+
 📧 **LinkedIn:** [linkedin.com/in/getfelipe](https://www.linkedin.com/in/getfelipe/)  
 🐙 **GitHub:** [github.com/getfelipe](https://github.com/getfelipe)
