@@ -47,21 +47,6 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 
 ---
 
-## 📌 Featured Projects
-
-🔹 **SmartWallet** _(Python, Flask, Scikit-Learn, yFinance, Docker)_  
- A stock market forecasting system with 10-day predictions using time series analysis. Integrated with OpenAI for financial chatbot capabilities.  
-🔗 Check it out: [SAD DashApp](https://felipe-machado-sistema-sad.onrender.com/)
-
-🔹 **Sprint Dash** _(Python, Plotly, Flask)_  
- A dashboard aggregating support area data, facilitating performance analysis and decision-making.  
-🔗 Check it out: [Sprint Dash](https://felipe-machado-dash-sprint.onrender.com/)
-
-🔹 **CNN CIFAR-10 Classifier** _(Python, TensorFlow, Matplotlib)_  
- A deep learning model for object classification using Convolutional Neural Networks, with Transfer Learning optimization.
-
----
-
 ## 📬 Get in Touch
 
 <div style="display: inline-block">
