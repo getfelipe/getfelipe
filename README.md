@@ -13,7 +13,7 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 
 <div style="display: inline-block">
   <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
-    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="MySQL Badge"/>  
+    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="python Badge"/>  
   </a>
   <a href= "https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql">
     <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" alt="MySQL Badge"/>  
@@ -65,14 +65,10 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 ## 📬 Get in Touch
 
 <div style="display: inline-block">
-  <a href= "https://github.com/getfelipe" target="_blank">
+  <a href= "https://github.com/getfelipe">
     <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="github Badge"/>  
   </a>
-  <a href= "https://www.linkedin.com/in/getfelipe/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=flat&logo=linkedin" alt="linkedin Badge"/>  
+  <a href= "https://www.linkedin.com/in/getfelipe/">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="linkedin Badge"/>  
   </a> 
 </div>
-
-
-📧 **LinkedIn:** [linkedin.com/in/getfelipe](https://www.linkedin.com/in/getfelipe/)  
-🐙 **GitHub:** [github.com/getfelipe](https://github.com/getfelipe)
