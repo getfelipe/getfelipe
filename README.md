@@ -17,29 +17,23 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="MySQL Badge"/>  
   </a>
-  <a href= "https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow">
-    <img src="https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow" alt="MySQL Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt">
-    <img src="https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt" alt="MySQL Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks">
-    <img src="https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks" alt="MySQL Badge"/>  
-  </a> 
-    <a href= "https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql">
+  <a href= "https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql">
     <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" alt="MySQL Badge"/>  
   </a> 
-
- 
-
-
+  <a href= "https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow">
+    <img src="https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow" alt="tensorflow Badge"/>  
+  </a>
+  <a href= "https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikitlearn">
+    <img src="https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikitlearn" alt="scikitlearn Badge"/>  
+  </a> 
+  <a href= "https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt">
+    <img src="https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt" alt="dbt Badge"/>  
+  </a>
+  <a href= "https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks">
+    <img src="https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks" alt="databricks Badge"/>  
+  </a> 
 </div>
 
-
-
-- Python | SQL (MySQL)
-- TensorFlow | Scikit-Learn | Pandas | Matplotlib | Seaborn
-- Airflow | dbt Core | Databricks
 
 🖥️ **Development & Tools**
 
