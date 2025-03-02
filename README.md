@@ -11,7 +11,7 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 
 ### Tech Stack
 
-💻 **Programming & Data**
+💻 **Programming, Tools & Data**
 
 <div style="display: inline-block">
   <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
@@ -32,16 +32,20 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   <a href= "https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks">
     <img src="https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks" alt="databricks Badge"/>  
   </a> 
+
+  <a href= "https://img.shields.io/badge/git-white?style=for-the-badge&logo=git">
+    <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git" alt="git Badge"/>  
+  </a> 
+
+    <a href= "https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker">
+    <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker" alt="docker Badge"/>  
+  </a> 
+
+    <a href= "https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter">
+    <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" alt="jupyter Badge"/>  
+  </a> 
+  
 </div>
-
-
-🖥️ **Development & Tools**
-
-- Flask | Git | Docker | VS Code | Jupyter
-
-☁️ **Cloud Platforms**
-
-- AWS | Azure
 
 ---
 
