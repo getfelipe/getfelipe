@@ -42,9 +42,14 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   <a href= "https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter">
     <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" alt="jupyter Badge"/>  
   </a> 
-    <a href= "https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonwebservices">
-    <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonwebservices" alt="jupyter Badge"/>  
+  <a href= "https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonwebservices">
+    <img src="https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonwebservices" alt="AWS Badge"/>  
   </a> 
+      <a href= "https://img.shields.io/badge/Airflow-blue?style=for-the-badge&logo=apacheairflow">
+    <img src="https://img.shields.io/badge/Airflow-blue?style=for-the-badge&logo=apacheairflow" alt="Airflow Badge"/>  
+  </a> 
+  
+
 
   
 </div>
