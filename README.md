@@ -2,7 +2,6 @@
 
 **`Machine Learning | Data Engineer`**
 
-🎓 **Information Systems Student** | **Data Engineering & Machine Learning Enthusiast**
 
 I like creating new things and perspectives that are useful for people, whether it's to make decisions or to improve their workday.
 My work focuses on turning data into insights, building scalable pipelines, and leveraging machine learning to solve real-world problems. Currently, I'm expanding my expertise in cloud computing, deep learning and data engineering.
@@ -50,7 +49,7 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 <div style="display: inline-block">
   <a href= "https://github.com/getfelipe">
