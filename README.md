@@ -1,10 +1,21 @@
-# Felipe Machado
+# I'm Felipe Machado 👋
 
-**`Machine Learning | Data Engineer`**
+- 👨🏻‍💻 Data Engineering and Machine Learning
+- 👀 Interested in Python, SQL, Docker, AWS, Databricks
+- 🌱 Learning data engineering and cloud computing
+- 💞️ Looking to collaborate on open-source projects
+- 📫 Reach me at [GMAIL](mailto:felipemachado3102[at]gmail.com)
 
+#### Connect with me:
 
-I like creating new things and perspectives that are useful for people, whether it's to make decisions or to improve their workday.
-My work focuses on turning data into insights, building scalable pipelines, and leveraging machine learning to solve real-world problems. Currently, I'm expanding my expertise in data engineering and cloud computing.
+<div style="display: inline-block">
+  <a href= "https://www.linkedin.com/in/getfelipe/">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="linkedin Badge"/>  
+  </a> 
+    <a href= "https://medium.com/@getfelipe">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium Badge"/>  
+  </a>
+</div>
 
 ---
 
@@ -43,19 +54,3 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   </a> 
   </div>
 
-
-  
-
-
----
-
-## Get in Touch
-
-<div style="display: inline-block">
-  <a href= "https://www.linkedin.com/in/getfelipe/">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="linkedin Badge"/>  
-  </a> 
-    <a href= "https://medium.com/@getfelipe">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium Badge"/>  
-  </a>
-</div>
