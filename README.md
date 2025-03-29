@@ -4,7 +4,7 @@
 - 👀 Interested in Python, SQL, Docker, AWS, Databricks
 - 🌱 Learning data engineering and cloud computing
 - 💞️ Looking to collaborate on open-source projects
-- 📫 Reach me at [GMAIL](mailto:felipemachado3102[at]gmail.com)
+- 📫 Reach me at [email](mailto:felipemachado3102[at]gmail.com)
 
 #### Connect with me:
 
