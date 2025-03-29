@@ -19,8 +19,6 @@
 
 ---
 
-### Tech Stack
-
 <div style="display: inline-block">
   <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
     <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="python Badge"/>  
