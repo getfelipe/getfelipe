@@ -6,7 +6,6 @@
 - 💞️ Looking to collaborate on open-source projects
 - 📫 [Reach me](mailto:felipemachado3102[at]gmail.com)
 
-  ---
 
 <div style="display: inline-block">
   <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
