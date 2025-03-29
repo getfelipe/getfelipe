@@ -55,4 +55,7 @@ My work focuses on turning data into insights, building scalable pipelines, and 
   <a href= "https://www.linkedin.com/in/getfelipe/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="linkedin Badge"/>  
   </a> 
+    <a href= "https://medium.com/@getfelipe">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium Badge"/>  
+  </a>
 </div>
