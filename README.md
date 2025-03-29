@@ -5,7 +5,20 @@
 - 🌱 Learning data engineering and cloud computing
 - 💞️ Looking to collaborate on open-source projects
 - 📫 [Reach me](mailto:felipemachado3102[at]gmail.com)
+---
 
+#### Connect with me:
+
+<div style="display: inline-block">
+  <a href= "https://www.linkedin.com/in/getfelipe/">
+    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="linkedin Badge"/>  
+  </a> 
+    <a href= "https://medium.com/@getfelipe">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium Badge"/>  
+  </a>
+</div>
+
+---
 
 <div style="display: inline-block">
   <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
@@ -40,16 +53,4 @@
   </a> 
   </div>
 
----
-
-#### Connect with me:
-
-<div style="display: inline-block">
-  <a href= "https://www.linkedin.com/in/getfelipe/">
-    <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="linkedin Badge"/>  
-  </a> 
-    <a href= "https://medium.com/@getfelipe">
-    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium" alt="Medium Badge"/>  
-  </a>
-</div>
 
