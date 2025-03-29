@@ -5,7 +5,7 @@
 - 🌱 Learning data engineering and cloud computing
 - 💞️ Looking to collaborate on open-source projects
 - 📫 [Reach me](mailto:felipemachado3102[at]gmail.com)
----
+
 
 #### Connect with me:
 
