@@ -52,9 +52,6 @@ My work focuses on turning data into insights, building scalable pipelines, and 
 ## Get in Touch
 
 <div style="display: inline-block">
-  <a href= "https://github.com/getfelipe">
-    <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github" alt="github Badge"/>  
-  </a>
   <a href= "https://www.linkedin.com/in/getfelipe/">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin" alt="linkedin Badge"/>  
   </a> 
