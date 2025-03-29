@@ -1,10 +1,10 @@
-# 🧑🏼‍💻 Hi There! I'm Felipe Machado
+# Felipe Machado
 
 **`Machine Learning | Data Engineer`**
 
 
 I like creating new things and perspectives that are useful for people, whether it's to make decisions or to improve their workday.
-My work focuses on turning data into insights, building scalable pipelines, and leveraging machine learning to solve real-world problems. Currently, I'm expanding my expertise in cloud computing, deep learning and data engineering.
+My work focuses on turning data into insights, building scalable pipelines, and leveraging machine learning to solve real-world problems. Currently, I'm expanding my expertise in data engineering and cloud computing.
 
 ---
 
