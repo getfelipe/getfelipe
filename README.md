@@ -41,6 +41,8 @@
   </a> 
   </div>
 
+---
+
 #### Connect with me:
 
 <div style="display: inline-block">
