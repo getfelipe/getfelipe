@@ -1,4 +1,4 @@
-# I'm Felipe Machado 👋
+# Felipe Machado
 
 - 👨🏻‍💻 Data Engineering and Machine Learning
 - 👀 Interested in Python, SQL, Docker, AWS, Databricks
