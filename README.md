@@ -5,7 +5,7 @@
 - 🌱 Learning data engineering and cloud computing
 - 💞️ Looking to collaborate on open-source projects
 
-#### Connect with me:
+#### Connect with me 🖱️:
 
 <div style="display: inline-block">
   <a href= "https://www.linkedin.com/in/getfelipe/">
