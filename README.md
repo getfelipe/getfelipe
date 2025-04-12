@@ -62,8 +62,9 @@
   <a href= "https://img.shields.io/badge/duckdb-white?style=for-the-badge&logo=duckdb">
     <img src="https://img.shields.io/badge/duckdb-white?style=for-the-badge&logo=duckdb" alt="duckdb Badge"/>  
   </a> 
-
-
+  <a href= "https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase">
+    <img src="https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase" alt="metabase Badge"/>  
+  </a> 
   </div>
 
 
