@@ -59,6 +59,9 @@
   <a href= "https://img.shields.io/badge/spark-white?style=for-the-badge&logo=apachespark">
     <img src="https://img.shields.io/badge/spark-white?style=for-the-badge&logo=apachespark" alt="apache Badge"/>  
   </a> 
+  <a href= "https://img.shields.io/badge/duckdb-white?style=for-the-badge&logo=duckdb">
+    <img src="https://img.shields.io/badge/duckdb-white?style=for-the-badge&logo=duckdb" alt="duckdb Badge"/>  
+  </a> 
 
 
   </div>
