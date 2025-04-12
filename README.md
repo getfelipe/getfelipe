@@ -65,6 +65,10 @@
   <a href= "https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase">
     <img src="https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase" alt="metabase Badge"/>  
   </a> 
+  <a href= "https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana">
+    <img src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana" alt="grafana Badge"/>  
+  </a> 
   </div>
+
 
 
