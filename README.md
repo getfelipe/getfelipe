@@ -21,50 +21,7 @@
 
 ---
 
-<div style="display: inline-block">
-  <a href= "https://img.shields.io/badge/python-white?style=for-the-badge&logo=python">
-    <img src="https://img.shields.io/badge/python-white?style=for-the-badge&logo=python" alt="python Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql">
-    <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql" alt="MySQL Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql">
-    <img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql" alt="postgres Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/spark-white?style=for-the-badge&logo=apachespark">
-    <img src="https://img.shields.io/badge/spark-white?style=for-the-badge&logo=apachespark" alt="spark Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow">
-    <img src="https://img.shields.io/badge/tensorflow-white?style=for-the-badge&logo=tensorflow" alt="tensorflow Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikitlearn">
-    <img src="https://img.shields.io/badge/scikitlearn-white?style=for-the-badge&logo=scikitlearn" alt="scikitlearn Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt">
-    <img src="https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt" alt="dbt Badge"/>  
-  </a>
-  <a href= "https://img.shields.io/badge/duckdb-white?style=for-the-badge&logo=duckdb">
-    <img src="https://img.shields.io/badge/duckdb-white?style=for-the-badge&logo=duckdb" alt="duckdb Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase">
-    <img src="https://img.shields.io/badge/metabase-white?style=for-the-badge&logo=metabase" alt="metabase Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana">
-    <img src="https://img.shields.io/badge/grafana-white?style=for-the-badge&logo=grafana" alt="grafana Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter">
-    <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" alt="jupyter Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks">
-    <img src="https://img.shields.io/badge/databricks-white?style=for-the-badge&logo=databricks" alt="databricks Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/git-white?style=for-the-badge&logo=git">
-    <img src="https://img.shields.io/badge/git-white?style=for-the-badge&logo=git" alt="git Badge"/>  
-  </a> 
-  <a href= "https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker">
-    <img src="https://img.shields.io/badge/docker-white?style=for-the-badge&logo=docker" alt="docker Badge"/>  
-  </a> 
-  </div>
+
 
 
 
