@@ -37,8 +37,8 @@
   <a href= "https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt">
     <img src="https://img.shields.io/badge/dbt-white?style=for-the-badge&logo=dbt" alt="dbt Badge"/>  
   </a>
-  <a href= "https://img.shields.io/badge/?style=for-the-badge&logo=databricks">
-    <img src="https://img.shields.io/badge/?style=for-the-badge&logo=databricks" alt="databricks Badge"/>  
+  <a href= "https://img.shields.io/badge/logo=databricks">
+    <img src="https://img.shields.io/badge/logo=databricks" alt="databricks Badge"/>  
   </a> 
 
   <a href= "https://img.shields.io/badge/git-white?style=for-the-badge&logo=git">
