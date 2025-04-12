@@ -52,10 +52,14 @@
   <a href= "https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter">
     <img src="https://img.shields.io/badge/jupyter-white?style=for-the-badge&logo=jupyter" alt="jupyter Badge"/>  
   </a> 
-  
+
   <a href= "https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql">
     <img src="https://img.shields.io/badge/PostgreSQL-white?style=for-the-badge&logo=postgresql" alt="postgres Badge"/>  
   </a> 
+  <a href= "https://img.shields.io/badge/spark-white?style=for-the-badge&logo=apachespark">
+    <img src="https://img.shields.io/badge/spark-white?style=for-the-badge&logo=apachespark" alt="apache Badge"/>  
+  </a> 
+
 
   </div>
 
